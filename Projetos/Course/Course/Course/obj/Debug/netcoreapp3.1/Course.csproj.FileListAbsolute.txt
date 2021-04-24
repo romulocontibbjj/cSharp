@@ -1,0 +1,13 @@
+C:\Romulo\Cursos\C#\Projetos\Course\Course\Course\bin\Debug\netcoreapp3.1\Course.exe
+C:\Romulo\Cursos\C#\Projetos\Course\Course\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+C:\Romulo\Cursos\C#\Projetos\Course\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+C:\Romulo\Cursos\C#\Projetos\Course\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+C:\Romulo\Cursos\C#\Projetos\Course\Course\Course\bin\Debug\netcoreapp3.1\Course.dll
+C:\Romulo\Cursos\C#\Projetos\Course\Course\Course\bin\Debug\netcoreapp3.1\Course.pdb
+C:\Romulo\Cursos\C#\Projetos\Course\Course\Course\obj\Debug\netcoreapp3.1\Course.csprojAssemblyReference.cache
+C:\Romulo\Cursos\C#\Projetos\Course\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+C:\Romulo\Cursos\C#\Projetos\Course\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+C:\Romulo\Cursos\C#\Projetos\Course\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+C:\Romulo\Cursos\C#\Projetos\Course\Course\Course\obj\Debug\netcoreapp3.1\Course.dll
+C:\Romulo\Cursos\C#\Projetos\Course\Course\Course\obj\Debug\netcoreapp3.1\Course.pdb
+C:\Romulo\Cursos\C#\Projetos\Course\Course\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache

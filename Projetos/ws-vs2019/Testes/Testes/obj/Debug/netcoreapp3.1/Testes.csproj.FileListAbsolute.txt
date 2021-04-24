@@ -1,0 +1,13 @@
+C:\Romulo\Cursos\C#\Projetos\ws-vs2019\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.exe
+C:\Romulo\Cursos\C#\Projetos\ws-vs2019\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.deps.json
+C:\Romulo\Cursos\C#\Projetos\ws-vs2019\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.runtimeconfig.json
+C:\Romulo\Cursos\C#\Projetos\ws-vs2019\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.runtimeconfig.dev.json
+C:\Romulo\Cursos\C#\Projetos\ws-vs2019\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.dll
+C:\Romulo\Cursos\C#\Projetos\ws-vs2019\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.pdb
+C:\Romulo\Cursos\C#\Projetos\ws-vs2019\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.AssemblyInfoInputs.cache
+C:\Romulo\Cursos\C#\Projetos\ws-vs2019\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.AssemblyInfo.cs
+C:\Romulo\Cursos\C#\Projetos\ws-vs2019\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.csproj.CoreCompileInputs.cache
+C:\Romulo\Cursos\C#\Projetos\ws-vs2019\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.dll
+C:\Romulo\Cursos\C#\Projetos\ws-vs2019\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.pdb
+C:\Romulo\Cursos\C#\Projetos\ws-vs2019\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.genruntimeconfig.cache
+C:\Romulo\Cursos\C#\Projetos\ws-vs2019\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.csprojAssemblyReference.cache
